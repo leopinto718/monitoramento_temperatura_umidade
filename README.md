@@ -1,6 +1,3 @@
-# monitoramento_temperatura_umidade
-Monitoramento de temperatura e umidade
-
 # Sistema de Monitoramento Ambiental para Cultura de Feijão
 
 **Disciplina:** Programação para Ciência de Dados  
