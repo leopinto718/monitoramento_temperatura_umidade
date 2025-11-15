@@ -247,7 +247,7 @@ C:\mba_ciencia_de_dados\...\relatorios\rel_geral.json
 
 
 ### Datasets
-- Dados simulados para cultura de feijão
+- Dados simulados de temperatura e umidade do ar para municípios do Ceará
 - Limites baseados em literatura agronômica para feijão (https://www.embrapa.br/agencia-de-informacao-tecnologica/cultivos/feijao/pre-producao/clima)
 
 ---
