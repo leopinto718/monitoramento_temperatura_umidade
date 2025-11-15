@@ -67,12 +67,12 @@ graph TB
 ```python
 # Estrutura de leitura individual
 {
-    "sensor_id": "sensor_001",
+    "sensor_id": "SENSOR_001",
     "temperatura": 25.5,
     "umidade": 65.2,
     "data": "2024-11-07",
     "hora": "14:30",
-    "localizacao": "Setor A - Norte"
+    "localizacao": "Caucaia"
 }
 ```
 
