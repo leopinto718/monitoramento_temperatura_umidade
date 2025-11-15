@@ -181,7 +181,7 @@ python main.py
 monitoramento_ambiental/
 ├── README.md
 ├── requirements.txt
-├── main.py
+├── sistema_monitoramento.py
 ├── dados/
 │   ├── dados_feijao_ceara.csv
 └── relatorios/
@@ -204,9 +204,9 @@ monitoramento_ambiental/
 ### Exemplo de Saída do Programa
 ```
 === RELATÓRIO GERAL ===
-Total sensores: 5
-Total leituras: 1247
-Total alertas: 23
+Total sensores: 10
+Total leituras: 600
+Total alertas: 468
 
 Relatório salvo automaticamente em:
 C:\mba_ciencia_de_dados\...\relatorios\rel_geral.json
@@ -216,7 +216,9 @@ C:\mba_ciencia_de_dados\...\relatorios\rel_geral.json
 - Histograma de temperatura por sensor
 - Gráfico de média de temperatura por hora
 - Histograma de umidade por sensor
-- Gráfico de alertas por sensor (TODO)
+- Gráfico de alertas por sensor
+- Histograma de temperatura geral
+- Histograma de umidade geral
 
 ---
 
