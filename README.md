@@ -133,7 +133,7 @@ pip install -r requirements.txt
 
 ### Execução
 ```bash
-python main.py
+python sistema_monitoramento.py
 ```
 
 ### Exemplo de Uso
