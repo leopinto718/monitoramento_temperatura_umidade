@@ -13,9 +13,9 @@
 
 ## 1. Objetivo do Projeto
 
-Este projeto tem como objetivo desenvolver um sistema de monitoramento ambiental para a cultura de feijão, permitindo o acompanhamento contínuo de temperatura e umidade através de sensores distribuídos na plantação.
+Este projeto tem como objetivo desenvolver um sistema de monitoramento ambiental para a cultura de feijão, permitindo o acompanhamento contínuo de temperatura e umidade através de dados registrados por sensores.
 
-**Problema resolvido:** Monitoramento inadequado das condições ambientais que pode comprometer o desenvolvimento da cultura do feijão, resultando em perdas de produtividade.
+**Problema resolvido:** Condições ambientais inadequadas podem comprometer o desenvolvimento da cultura do feijão, resultando em perdas de produtividade. Assim, quando detectadas essas condições, o produtor deve adaptar a forma de manejo da cultura para evitar prejuízos.
 
 **Público-alvo:** Produtores rurais, agrônomos e técnicos agrícolas envolvidos no cultivo de feijão.
 
