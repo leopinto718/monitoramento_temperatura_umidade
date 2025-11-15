@@ -6,7 +6,7 @@
 **Integrantes:**  
 – Leonardo Mesquita Pinto (2528979)
 
-**Repositório Github:** [https://github.com/seu_usuario/monitoramento-ambiental-feijao](https://github.com/seu_usuario/monitoramento-ambiental-feijao)  
+**Repositório Github:** (https://github.com/leopinto718/monitoramento_temperatura_umidade/tree/main)
 
 
 ---
