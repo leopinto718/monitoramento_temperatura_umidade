@@ -3,10 +3,9 @@
 **Disciplina:** Programação para Ciência de Dados  
 **Curso:** MBA Ciência de Dados – UNIFOR  
 **Instrutor:** Cássio Pinheiro  
-**Integrantes:**  
-– Leonardo Mesquita Pinto (2528979)
+**Integrante:** Leonardo Mesquita Pinto (2528979)
 
-**Repositório Github:** (https://github.com/leopinto718/monitoramento_temperatura_umidade/tree/main)
+**Repositório Github:** https://github.com/leopinto718/monitoramento_temperatura_umidade/tree/main
 
 
 ---
