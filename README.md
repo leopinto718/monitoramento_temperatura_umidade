@@ -137,10 +137,11 @@ python main.py
 ```
 
 ### Exemplo de Uso
-1. Execute o programa: `python main.py`
+1. Execute o programa: `python sistema_monitoramento.py`
 2. Carregue dados CSV ou insira leituras manualmente
-3. Gere relatórios por sensor ou geral
-4. Visualize gráficos na pasta `relatorios/`
+3. Caso queira gerar os dados simulados localmente execute:  `python gerar_dados_simulados.py`
+4. Gere relatórios por sensor ou geral
+5. Visualize gráficos na pasta `relatorios/`
 
 ### Comandos do Menu
 ```
@@ -261,7 +262,7 @@ C:\mba_ciencia_de_dados\...\relatorios\rel_geral.json
 - [ ] Suporte a mais culturas além do feijão
 - [ ] Integração com APIs de dados metereológicos
 - [ ] App Streamlit para facilitar utilização pelo usuário
-- [ ] Análises da relação entre produtividade da cultura e dados metereológicos
+- [ ] Análises da relação entre produtividade da cultura e dados metereológicos por município
 
 ---
 
